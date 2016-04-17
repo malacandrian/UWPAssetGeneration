@@ -29,9 +29,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.2183786"
      inkscape:cx="162.04027"
-     inkscape:cy="195.63708"
+     inkscape:cy="97.145528"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:object-paths="false"
@@ -158,16 +158,19 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
      id="layer2"
      inkscape:label="Template"
      transform="translate(0,-956)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="Full Bleed"
-       style="display:inline">
+       style="display:none"
+       sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
          id="layer11"
-         inkscape:label="Bleed">
+         inkscape:label="Bleed"
+         sodipodi:insensitive="true">
         <path
            style="fill:#00ffff;fill-opacity:0.50196078;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
            d="m 0,956 0,284 284,0 0,-284 z m 46.997998,47.2677 190.436172,0 0,189.4646 -190.436172,0 z"
@@ -403,7 +406,8 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
       <g
          inkscape:groupmode="layer"
          id="layer12"
-         inkscape:label="Full Bleed Icon Placement">
+         inkscape:label="Full Bleed Icon Placement"
+         sodipodi:insensitive="true">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -431,7 +435,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="Centered Logo"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
@@ -763,8 +767,8 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Instructions"
-       sodipodi:insensitive="true"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.85986328px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

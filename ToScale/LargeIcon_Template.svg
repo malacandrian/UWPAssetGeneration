@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.33589188"
-     inkscape:cx="565.11924"
-     inkscape:cy="401.87239"
+     inkscape:cx="82.821186"
+     inkscape:cy="540.01988"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:object-paths="false"
@@ -156,7 +156,8 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Template">
+     inkscape:label="Template"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer4"
@@ -167,6 +168,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
          inkscape:groupmode="layer"
          id="layer11"
          inkscape:label="Bleed"
+         style="display:inline"
          sodipodi:insensitive="true">
         <g
            transform="translate(620.82311,0)"
@@ -385,6 +387,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
          inkscape:groupmode="layer"
          id="layer12"
          inkscape:label="Full Bleed Icon Placement"
+         style="display:inline"
          sodipodi:insensitive="true">
         <text
            xml:space="preserve"
@@ -411,7 +414,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="Centered Logo"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
@@ -812,7 +815,8 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="Instructions">
+       inkscape:label="Instructions"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

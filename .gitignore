@@ -1,0 +1,19 @@
+#As this will be mixed in with the Assets folder, 
+#And we don't want to risk nuking someone's art assets when updating
+#Or including assets specific to one project in the repo,
+#Ignore anything that isn't one of the set files
+/*
+
+#Include Source management files
+!README.md
+!LICENSE
+!.gitignore
+
+#Include Scripts
+!GenerateScales.ps1
+!Resize-Image.psm1
+
+#Include Template Files
+!ToScale/
+ToScale/*
+!ToScale/*_Template.svg

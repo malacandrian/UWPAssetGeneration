@@ -27,7 +27,7 @@ Import-Module .\Resize-Image.psm1
 $scales = $scales | Sort-Object -Descending
 $largestScale = $scales[0]
 
-Get-ChildItem .\ToScale | where-object { $_.extension -eq ".svg" } | ForEach-Object {
+Get-ChildItem .\ToScale | where-object { $_.extension -eq ".svg" -and $_.BaseName -notlike "*_Template" } | ForEach-Object {
     $fullname = $_.FullName
     $name = $_.BaseName
     if(-not (Test-Path $name -PathType Container)) { New-Item $name -ItemType Directory }

@@ -15,5 +15,5 @@
 
 #Include Template Files
 !Templates/
-Ttemplates/*
+Templates/*
 !Templates/*_Template.svg

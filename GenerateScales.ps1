@@ -19,6 +19,12 @@ $inkscape = "C:\Program Files\Inkscape\Inkscape.com"
 #When preparing your files, remember the script starts at the largest size, and scales down 
 $scales = 400, 200, 150, 125, 100
 
+#Set the directory containing all the source files (relative path from script location)
+$inputFolder = "Templates\"
+
+#Set the output directory for the scaled images (relative path from script location)
+$outputFolder =".\"
+
 #############################
 #Do not edit below this line#
 #############################
@@ -27,21 +33,26 @@ Import-Module .\Resize-Image.psm1
 $scales = $scales | Sort-Object -Descending
 $largestScale = $scales[0]
 
-Get-ChildItem .\ToScale | where-object { $_.extension -eq ".svg" -and $_.BaseName -notlike "*_Template" } | ForEach-Object {
+$fullLocation = $MyInvocation.MyCommand.Source
+$location = $FullLocation.Substring(0,$fullLocation.LastIndexOf($MyInvocation.MyCommand.Name))
+
+Get-ChildItem $inputFolder | where-object { $_.extension -eq ".svg" -and $_.BaseName -notlike "*_Template" } | ForEach-Object {
     $fullname = $_.FullName
     $name = $_.BaseName
-    if(-not (Test-Path $name -PathType Container)) { New-Item $name -ItemType Directory }
+
+    $curOutputFolder = "$outputFolder\$name"
+    if(-not (Test-Path $curOutputFolder -PathType Container)) { New-Item $curOutputFolder -ItemType Directory }
 
 
-    $newName = "$name\$name.Scale-$largestScale.png"
+    $newName = "$curOutputFolder\$name.Scale-$largestScale.png"
 
     . $inkscape -f $fullname -e $newName
 
     $scales | ForEach-Object {
         $scaleFactor = $_ / $largestScale
         if($scaleFactor -ne 1) {
-            Resize-Image -InputFile ".\$newName" -OutputFile "$location\$name\$name.Scale-$_.png" -Scale ($scaleFactor * 100)
+            Write-Output "$location\$curOutputFolder\$name.Scale-$_.png"
+            Resize-Image -InputFile ".\$newName" -OutputFile "$location\$curOutputFolder\$name.Scale-$_.png" -Scale ($scaleFactor * 100)
         }
     }
 }
-

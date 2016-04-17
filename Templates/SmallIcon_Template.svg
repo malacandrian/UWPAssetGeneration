@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="176"
+   height="176"
+   viewBox="0 0 176 176"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SmallIcon_Template.svg">
+  <title
+     id="title7649">App List / Target Icon Template</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1383002"
+     inkscape:cx="88.574486"
+     inkscape:cy="52.82505"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     units="px"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-center="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,176"
+       id="guide4350" />
+    <sodipodi:guide
+       position="176,0"
+       orientation="-176,0"
+       id="guide4352" />
+    <sodipodi:guide
+       position="176,176"
+       orientation="0,-176"
+       id="guide4354" />
+    <sodipodi:guide
+       position="0,176"
+       orientation="176,0"
+       id="guide4356" />
+    <sodipodi:guide
+       position="45.242898,153.8902"
+       orientation="0,74.672742"
+       id="guide4425" />
+    <sodipodi:guide
+       position="41.728888,21.231302"
+       orientation="0,74.672742"
+       id="guide4427" />
+    <sodipodi:guide
+       position="153.8902,176"
+       orientation="1,0"
+       id="guide4431" />
+    <sodipodi:guide
+       position="22.1098,176"
+       orientation="1,0"
+       id="guide4433" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>App List / Target Icon Template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date>2016-04-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Evan Williams</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright Evan Williams 2016, Licenced under Creative Commons Attribution 4.0 International Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>En-GB</dc:language>
+        <dc:description>Template for the large icon asset of UWP apps. 
+Based off the guidance at 
+https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-notifications-app</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Content"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-876.36198)"
+     style="display:inline">
+    <g
+       transform="matrix(0,-0.26563219,0.26563219,0,-94.591455,1181.5088)"
+       style="display:inline"
+       id="g4656-9-9"
+       inkscape:transform-center-x="-164.91969"
+       inkscape:transform-center-y="-350.18793">
+      <g
+         transform="matrix(0,0.59900182,-0.59900182,0,1221.8351,315.48941)"
+         style="display:inline"
+         id="g4642-7-7">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4644-8-3"
+           d="m 206.75163,122 0,-130.91529"
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4646-9-6"
+           d="m 1034.9645,122 0,-130.91529"
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4648-9-6"
+           d="m 206.75163,-8.91529 353.12301,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4650-7-6"
+           y="12.075922"
+           x="610.40472"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="12.075922"
+             x="610.40472"
+             id="tspan4652-8-4"
+             sodipodi:role="line">75%</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4654-0-7"
+           d="m 682.54953,-8.91529 352.41497,0"
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:transform-center-y="164.91968"
+       inkscape:transform-center-x="-350.18793"
+       id="g4437"
+       style="display:inline"
+       transform="matrix(0.26563219,0,0,0.26563219,-129.14681,781.77052)">
+      <g
+         id="g4439"
+         style="display:inline"
+         transform="matrix(0,0.59900182,-0.59900182,0,1221.8351,315.48941)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 206.75163,122 0,-130.91529"
+           id="path4441"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1034.9645,122 0,-130.91529"
+           id="path4443"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 206.75163,-8.91529 353.12301,0"
+           id="path4445"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="610.40472"
+           y="12.075922"
+           id="text4447"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4449"
+             x="610.40472"
+             y="12.075922">75%</tspan></text>
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 682.54953,-8.91529 352.41497,0"
+           id="path4451"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Template"
+     transform="translate(0,-1064)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Icon Location"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="49.953125"
+         y="1165.7695"
+         id="text4454"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4456"
+           x="49.953125"
+           y="1165.7695">Icon</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Margins"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 0,1064 0,176 176,0 0,-176 z m 22.1098,22.1098 131.7804,0 0,132.6589 -131.7804,0 z"
+         id="path7110"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-619.99924"
+         inkscape:transform-center-y="-621.9993"
+         sodipodi:nodetypes="cccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="87.758301"
+         y="1080.6305"
+         id="text7113"
+         sodipodi:linespacing="125%"
+         inkscape:transform-center-x="-619.99924"
+         inkscape:transform-center-y="-1225.9993"><tspan
+           sodipodi:role="line"
+           id="tspan7115"
+           x="87.758301"
+           y="1080.6305">Margin</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1151.7583"
+         y="-159.36954"
+         id="text7113-1"
+         sodipodi:linespacing="125%"
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:transform-center-x="-1223.9992"
+         inkscape:transform-center-y="-621.9993"><tspan
+           sodipodi:role="line"
+           id="tspan7115-6"
+           x="1151.7583"
+           y="-159.36954">Margin</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-1152"
+         y="16.630463"
+         id="text7113-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:transform-center-x="-15.999241"
+         inkscape:transform-center-y="-621.9993"><tspan
+           sodipodi:role="line"
+           id="tspan7115-1"
+           x="-1148.9238"
+           y="16.630463"> Margin </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-88.241699"
+         y="-1224.248"
+         id="text7113-16"
+         sodipodi:linespacing="125%"
+         transform="scale(-1,-1)"
+         inkscape:transform-center-x="-619.99924"
+         inkscape:transform-center-y="-17.9993"><tspan
+           sodipodi:role="line"
+           id="tspan7115-8"
+           x="-88.241699"
+           y="-1224.248">Margin</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Instructions"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.85986328px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="0.34594053"
+         y="1257.8361"
+         id="text7615"
+         sodipodi:linespacing="125%"
+         inkscape:transform-center-x="-169.08259"
+         inkscape:transform-center-y="45.886749"><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1257.8361"
+           id="tspan7619"
+           style="font-size:11.07218456px;fill:#880000;fill-opacity:1">© Template Copyright Evan Williams 2016 http://natcs.eu</tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1265.5005"
+           style="font-size:4.98248291px;fill:#880000;fill-opacity:1"
+           id="tspan7645">Licenced under Creative Commons Attribution 4.0 International Licence http://creativecommons.org/licenses/by/4.0/</tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1271.7286"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7623" /><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1280.7639"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7651">Template for the app list and target icon asset of UWP apps. </tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1290.452"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7627">Based off the guidance at </tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1300.1403"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7629">https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-notifications-app</tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1309.8284"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7631" /><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1319.5166"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7633">Will export icon at 400% scale</tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1329.2047"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7635">Designed for use with UWPAssetGeneration script </tspan><tspan
+           sodipodi:role="line"
+           x="0.34594053"
+           y="1338.8928"
+           style="font-size:7.75052977px;fill:#880000;fill-opacity:1"
+           id="tspan7637">https://github.com/malacandrian/UWPAssetGeneration</tspan></text>
+    </g>
+  </g>
+</svg>

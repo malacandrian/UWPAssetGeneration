@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2183786"
-     inkscape:cx="162.04027"
-     inkscape:cy="97.145528"
+     inkscape:zoom="1.1383002"
+     inkscape:cx="80.170941"
+     inkscape:cy="95.259632"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      units="px"
      inkscape:object-paths="false"
@@ -158,8 +158,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
      id="layer2"
      inkscape:label="Template"
      transform="translate(0,-956)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer4"
@@ -235,53 +234,11 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
              x="-1119.5503"
              y="45.873512">Bleed</tspan></text>
         <g
-           transform="matrix(0.4874022,0,0,0.4874022,298.6057,640)"
-           id="g4475-7-7-6-5-1"
-           style="display:inline"
-           inkscape:transform-center-x="-50.803472"
-           inkscape:transform-center-y="-622.13768">
-          <path
-             sodipodi:nodetypes="cc"
-             style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 414.14137,0 0,-46.91529"
-             id="path4398-9-6-8-0-1"
-             inkscape:connector-curvature="0" />
-          <path
-             sodipodi:nodetypes="cc"
-             style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 619.17682,0 -0.80804,-46.91529"
-             id="path4398-4-2-7-9-7-0"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 414.14139,-46.91529 48.60281,0"
-             id="path4415-1-6-7-4-8"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cc" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="458.67224"
-             y="-25.924078"
-             id="text4417-1-2-2-4-4"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan4419-2-8-2-8-1"
-               x="458.67224"
-               y="-25.924078">16%</tspan></text>
-          <path
-             style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 571.97965,-46.91529 46.38913,0"
-             id="path4415-2-3-9-8-2-9"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cc" />
-        </g>
-        <g
-           transform="matrix(0.4874022,0,0,0.4874022,-201.85341,640)"
+           transform="matrix(0.23012579,0,0,0.23012579,-95.304603,956)"
            id="g4475-7-7-6-5-1-6"
            style="display:inline"
-           inkscape:transform-center-x="-50.803472"
-           inkscape:transform-center-y="-622.13768">
+           inkscape:transform-center-x="-23.986741"
+           inkscape:transform-center-y="-293.74082">
           <path
              sodipodi:nodetypes="cc"
              style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -319,27 +276,27 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
              sodipodi:nodetypes="cc" />
         </g>
         <g
-           transform="matrix(0,0.4874022,-0.4874022,0,600.02098,439.36509)"
-           id="g4475-7-7-6-5-1-7"
+           transform="matrix(0.23012579,0,0,0.23012579,140.93622,955.99009)"
+           id="g4475-7-7-6-5-1-6-9"
            style="display:inline"
-           inkscape:transform-center-x="-622.13771"
-           inkscape:transform-center-y="50.803488">
+           inkscape:transform-center-x="-23.986741"
+           inkscape:transform-center-y="-293.74082">
           <path
              sodipodi:nodetypes="cc"
              style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 414.14137,0 0,-46.91529"
-             id="path4398-9-6-8-0-1-1"
+             id="path4398-9-6-8-0-1-7-1"
              inkscape:connector-curvature="0" />
           <path
              sodipodi:nodetypes="cc"
              style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 619.17682,0 -0.80804,-46.91529"
-             id="path4398-4-2-7-9-7-0-0"
+             id="path4398-4-2-7-9-7-0-9-3"
              inkscape:connector-curvature="0" />
           <path
              style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
              d="m 414.14139,-46.91529 48.60281,0"
-             id="path4415-1-6-7-4-8-1"
+             id="path4415-1-6-7-4-8-2-3"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
           <text
@@ -347,41 +304,41 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="458.67224"
              y="-25.924078"
-             id="text4417-1-2-2-4-4-0"
+             id="text4417-1-2-2-4-4-9-2"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
-               id="tspan4419-2-8-2-8-1-6"
+               id="tspan4419-2-8-2-8-1-1-4"
                x="458.67224"
                y="-25.924078">16%</tspan></text>
           <path
              style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
              d="m 571.97965,-46.91529 46.38913,0"
-             id="path4415-2-3-9-8-2-9-1"
+             id="path4415-2-3-9-8-2-9-7-1"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
         </g>
         <g
-           transform="matrix(0,0.4874022,-0.4874022,0,600.02098,936.99353)"
-           id="g4475-7-7-6-5-1-7-2"
+           transform="matrix(0,0.23012579,-0.23012579,0,284.00991,861.2707)"
+           id="g4475-7-7-6-5-1-6-9-6"
            style="display:inline"
-           inkscape:transform-center-x="-622.13771"
-           inkscape:transform-center-y="50.803488">
+           inkscape:transform-center-x="-293.74082"
+           inkscape:transform-center-y="23.986703">
           <path
              sodipodi:nodetypes="cc"
              style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 414.14137,0 0,-46.91529"
-             id="path4398-9-6-8-0-1-1-5"
+             id="path4398-9-6-8-0-1-7-1-6"
              inkscape:connector-curvature="0" />
           <path
              sodipodi:nodetypes="cc"
              style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 619.17682,0 -0.80804,-46.91529"
-             id="path4398-4-2-7-9-7-0-0-9"
+             id="path4398-4-2-7-9-7-0-9-3-3"
              inkscape:connector-curvature="0" />
           <path
              style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
              d="m 414.14139,-46.91529 48.60281,0"
-             id="path4415-1-6-7-4-8-1-8"
+             id="path4415-1-6-7-4-8-2-3-9"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
           <text
@@ -389,18 +346,60 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="458.67224"
              y="-25.924078"
-             id="text4417-1-2-2-4-4-0-6"
+             id="text4417-1-2-2-4-4-9-2-8"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
-               id="tspan4419-2-8-2-8-1-6-9"
+               id="tspan4419-2-8-2-8-1-1-4-0"
                x="458.67224"
                y="-25.924078">16%</tspan></text>
           <path
              style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
              d="m 571.97965,-46.91529 46.38913,0"
-             id="path4415-2-3-9-8-2-9-1-9"
+             id="path4415-2-3-9-8-2-9-7-1-9"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           inkscape:transform-center-y="23.986703"
+           inkscape:transform-center-x="-293.74082"
+           style="display:inline"
+           id="g4406"
+           transform="matrix(0,0.23012579,-0.23012579,0,284.00991,1096.9362)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4408"
+             d="m 414.14137,0 0,-46.91529"
+             style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4410"
+             d="m 619.17682,0 -0.80804,-46.91529"
+             style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path4412"
+             d="m 414.14139,-46.91529 48.60281,0"
+             style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text4414"
+             y="-25.924078"
+             x="458.67224"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="-25.924078"
+               x="458.67224"
+               id="tspan4416"
+               sodipodi:role="line">16%</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path4418"
+             d="m 571.97965,-46.91529 46.38913,0"
+             style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
       </g>
       <g
@@ -452,11 +451,11 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
            inkscape:transform-center-y="-621.9993"
            sodipodi:nodetypes="cccccccccc" />
         <g
-           transform="matrix(0,-0.47780572,0.47780572,0,6.3332536,1232.4791)"
+           transform="matrix(0,-0.26563219,0.26563219,0,-22.705236,1285.3839)"
            style="display:inline"
            id="g4656-9"
-           inkscape:transform-center-x="-296.64917"
-           inkscape:transform-center-y="-629.90026">
+           inkscape:transform-center-x="-164.91969"
+           inkscape:transform-center-y="-350.18793">
           <g
              id="g4475-7-7"
              style="display:inline"
@@ -464,18 +463,18 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
             <path
                sodipodi:nodetypes="cc"
                style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 414.14139,0 0,-46.91529"
+               d="m 440.14209,0 0,-46.91529"
                id="path4398-9-6"
                inkscape:connector-curvature="0" />
             <path
                sodipodi:nodetypes="cc"
                style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 828.28278,0 -0.80804,-46.91529"
+               d="m 803.60509,0 -0.80804,-46.91529"
                id="path4398-4-2-7"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 414.14139,-46.91529 145.73325,0"
+               d="m 440.14209,-46.91529 119.73255,0"
                id="path4415-1-6"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cc" />
@@ -492,7 +491,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
                  y="-25.924078">33%</tspan></text>
             <path
                style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 682.54953,-46.91529 145.73325,0"
+               d="m 682.54953,-46.91529 120.24752,0"
                id="path4415-2-3-9"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cc" />
@@ -656,6 +655,93 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
              id="tspan4283-6-0-5"
              x="-168.72852"
              y="-1193.9917">Border</tspan></text>
+        <g
+           inkscape:transform-center-y="164.91973"
+           inkscape:transform-center-x="-350.18793"
+           id="g4310"
+           style="display:inline"
+           transform="matrix(0.26563219,0,0,0.26563219,-45.37248,933.29476)">
+          <g
+             transform="matrix(0,1,-1,0,1240,-0.80808)"
+             style="display:inline"
+             id="g4312">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4314"
+               d="m 440.14209,0 0,-46.91529"
+               style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               sodipodi:nodetypes="cc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4316"
+               d="m 803.60509,0 -0.80804,-46.91529"
+               style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               sodipodi:nodetypes="cc" />
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path4318"
+               d="m 440.14209,-46.91529 119.73255,0"
+               style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4320"
+               y="-25.924078"
+               x="557.02582"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 y="-25.924078"
+                 x="557.02582"
+                 id="tspan4322"
+                 sodipodi:role="line">33%</tspan></text>
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path4324"
+               d="m 682.54953,-46.91529 120.24752,0"
+               style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <g
+             id="g4326"
+             style="display:inline"
+             transform="matrix(0,1,-1,0,1362,-0.80808)">
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 206.75163,122 0,-130.91529"
+               id="path4328"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 1034.9645,122 0,-130.91529"
+               id="path4330"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 206.75163,-8.91529 353.12301,0"
+               id="path4332"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="610.40472"
+               y="12.075922"
+               id="text4334"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4336"
+                 x="610.40472"
+                 y="12.075922">66%</tspan></text>
+            <path
+               style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 682.54953,-8.91529 352.41497,0"
+               id="path4338"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
       </g>
       <g
          inkscape:groupmode="layer"

@@ -16,6 +16,38 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="MediumIcon_Template.svg">
+   <UWP:Sizes xmlns:UWP="http://natcs.eu/UWPAssetGeneration/Schema.xsd">
+    <UWP:Size>
+      <UWP:Scale>400</UWP:Scale>
+      <UWP:Width>600</UWP:Width>
+      <UWP:Height>600</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>200</UWP:Scale>
+      <UWP:Width>300</UWP:Width>
+      <UWP:Height>300</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>100</UWP:Scale>
+      <UWP:Width>150</UWP:Width>
+      <UWP:Height>150</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>125</UWP:Scale>
+      <UWP:Width>188</UWP:Width>
+      <UWP:Height>188</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>150</UWP:Scale>
+      <UWP:Width>225</UWP:Width>
+      <UWP:Height>225</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+  </UWP:Sizes>
   <title
      id="title7649">Medium Icon Template</title>
   <defs

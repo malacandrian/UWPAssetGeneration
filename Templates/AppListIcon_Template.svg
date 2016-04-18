@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:UWP="http://natcs.eu/UWPAssetGeneration/Schema.xsd"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -9,13 +10,119 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="176"
-   height="176"
-   viewBox="0 0 176 176"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="SmallIcon_Template.svg">
+   sodipodi:docname="AppListIcon_Template.svg">
+  <UWP:Sizes>
+    <!-- Target-based asset sizes -->
+    <UWP:Size>
+      <UWP:Scale>256</UWP:Scale>
+      <UWP:Width>256</UWP:Width>
+      <UWP:Height>256</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>96</UWP:Scale>
+      <UWP:Width>96</UWP:Width>
+      <UWP:Height>96</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>80</UWP:Scale>
+      <UWP:Width>80</UWP:Width>
+      <UWP:Height>80</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>72</UWP:Scale>
+      <UWP:Width>72</UWP:Width>
+      <UWP:Height>72</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>64</UWP:Scale>
+      <UWP:Width>64</UWP:Width>
+      <UWP:Height>64</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>60</UWP:Scale>
+      <UWP:Width>60</UWP:Width>
+      <UWP:Height>60</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>40</UWP:Scale>
+      <UWP:Width>40</UWP:Width>
+      <UWP:Height>40</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>36</UWP:Scale>
+      <UWP:Width>36</UWP:Width>
+      <UWP:Height>36</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>30</UWP:Scale>
+      <UWP:Width>30</UWP:Width>
+      <UWP:Height>30</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>20</UWP:Scale>
+      <UWP:Width>20</UWP:Width>
+      <UWP:Height>20</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>48</UWP:Scale>
+      <UWP:Width>48</UWP:Width>
+      <UWP:Height>48</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>32</UWP:Scale>
+      <UWP:Width>32</UWP:Width>
+      <UWP:Height>32</UWP:Height>
+      <UWP:NameSuffix>targetsize</UWP:NameSuffix>
+    </UWP:Size>
+    <!-- App List Icon Sizes -->
+    <UWP:Size>
+      <UWP:Scale>400</UWP:Scale>
+      <UWP:Width>176</UWP:Width>
+      <UWP:Height>176</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>200</UWP:Scale>
+      <UWP:Width>88</UWP:Width>
+      <UWP:Height>88</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>100</UWP:Scale>
+      <UWP:Width>44</UWP:Width>
+      <UWP:Height>44</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>125</UWP:Scale>
+      <UWP:Width>55</UWP:Width>
+      <UWP:Height>55</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+    <UWP:Size>
+      <UWP:Scale>150</UWP:Scale>
+      <UWP:Width>66</UWP:Width>
+      <UWP:Height>66</UWP:Height>
+      <UWP:NameSuffix>scale</UWP:NameSuffix>
+    </UWP:Size>
+  </UWP:Sizes>
   <title
      id="title7649">App List / Target Icon Template</title>
   <defs
@@ -27,11 +134,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1383002"
-     inkscape:cx="88.574486"
-     inkscape:cy="52.82505"
+     inkscape:zoom="1.1360799"
+     inkscape:cx="-31.545471"
+     inkscape:cy="112.38346"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:object-paths="false"
@@ -55,36 +162,36 @@
      inkscape:snap-global="true">
     <sodipodi:guide
        position="0,0"
-       orientation="0,176"
-       id="guide4350" />
+       orientation="0,256"
+       id="guide4184" />
     <sodipodi:guide
-       position="176,0"
-       orientation="-176,0"
-       id="guide4352" />
+       position="256,0"
+       orientation="-256,0"
+       id="guide4186" />
     <sodipodi:guide
-       position="176,176"
-       orientation="0,-176"
-       id="guide4354" />
+       position="256,256"
+       orientation="0,-256"
+       id="guide4188" />
     <sodipodi:guide
-       position="0,176"
-       orientation="176,0"
-       id="guide4356" />
+       position="0,256"
+       orientation="256,0"
+       id="guide4190" />
     <sodipodi:guide
-       position="45.242898,153.8902"
-       orientation="0,74.672742"
-       id="guide4425" />
+       position="231.32174,347.17473"
+       orientation="256,0"
+       id="guide4233" />
     <sodipodi:guide
-       position="41.728888,21.231302"
-       orientation="0,74.672742"
-       id="guide4427" />
+       position="25.702417,350.69561"
+       orientation="256,0"
+       id="guide4235" />
     <sodipodi:guide
-       position="153.8902,176"
-       orientation="1,0"
-       id="guide4431" />
+       position="256,231.32174"
+       orientation="0,-24.67825"
+       id="guide4241" />
     <sodipodi:guide
-       position="22.1098,176"
-       orientation="1,0"
-       id="guide4433" />
+       position="256,24.67825"
+       orientation="0,-24.67825"
+       id="guide4245" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -119,14 +226,14 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
      inkscape:label="Content"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-876.36198)"
+     transform="translate(0,-796.36198)"
      style="display:inline">
     <g
-       transform="matrix(0,-0.26563219,0.26563219,0,-94.591455,1181.5088)"
+       transform="matrix(0,-0.41447067,0.41447067,0,-156.38865,1272.488)"
        style="display:inline"
        id="g4656-9-9"
-       inkscape:transform-center-x="-164.91969"
-       inkscape:transform-center-y="-350.18793">
+       inkscape:transform-center-x="-257.32715"
+       inkscape:transform-center-y="-546.40454">
       <g
          transform="matrix(0,0.59900182,-0.59900182,0,1221.8351,315.48941)"
          style="display:inline"
@@ -169,11 +276,11 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
       </g>
     </g>
     <g
-       inkscape:transform-center-y="164.91968"
-       inkscape:transform-center-x="-350.18793"
+       inkscape:transform-center-y="258.60886"
+       inkscape:transform-center-x="-549.12611"
        id="g4437"
        style="display:inline"
-       transform="matrix(0.26563219,0,0,0.26563219,-129.14681,781.77052)">
+       transform="matrix(0.41653512,0,0,0.41653512,-222.49758,638.04219)">
       <g
          id="g4439"
          style="display:inline"
@@ -220,7 +327,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Template"
-     transform="translate(0,-1064)"
+     transform="translate(0,-984)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -231,14 +338,14 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="49.953125"
-         y="1165.7695"
+         x="89.953125"
+         y="1125.7695"
          id="text4454"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4456"
-           x="49.953125"
-           y="1165.7695">Icon</tspan></text>
+           x="89.953125"
+           y="1125.7695">Icon</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -248,7 +355,7 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
        sodipodi:insensitive="true">
       <path
          style="fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:15, 15;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 0,1064 0,176 176,0 0,-176 z m 22.1098,22.1098 131.7804,0 0,132.6589 -131.7804,0 z"
+         d="m 0,984 0,256 256,0 0,-256 z m 25.702417,24.6783 205.619323,0 0,206.6435 -205.619323,0 z"
          id="path7110"
          inkscape:connector-curvature="0"
          inkscape:transform-center-x="-619.99924"
@@ -257,21 +364,21 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="87.758301"
-         y="1080.6305"
+         x="127.7583"
+         y="1001.9147"
          id="text7113"
          sodipodi:linespacing="125%"
          inkscape:transform-center-x="-619.99924"
          inkscape:transform-center-y="-1225.9993"><tspan
            sodipodi:role="line"
            id="tspan7115"
-           x="87.758301"
-           y="1080.6305">Margin</tspan></text>
+           x="127.7583"
+           y="1001.9147">Margin</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1151.7583"
-         y="-159.36954"
+         x="1111.7583"
+         y="-238.08531"
          id="text7113-1"
          sodipodi:linespacing="125%"
          transform="matrix(0,1,-1,0,0,0)"
@@ -279,13 +386,13 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
          inkscape:transform-center-y="-621.9993"><tspan
            sodipodi:role="line"
            id="tspan7115-6"
-           x="1151.7583"
-           y="-159.36954">Margin</tspan></text>
+           x="1111.7583"
+           y="-238.08531">Margin</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-1152"
-         y="16.630463"
+         x="-1112"
+         y="17.914692"
          id="text7113-6"
          sodipodi:linespacing="125%"
          transform="matrix(0,-1,1,0,0,0)"
@@ -293,13 +400,13 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
          inkscape:transform-center-y="-621.9993"><tspan
            sodipodi:role="line"
            id="tspan7115-1"
-           x="-1148.9238"
-           y="16.630463"> Margin </tspan></text>
+           x="-1108.9238"
+           y="17.914692"> Margin </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-88.241699"
-         y="-1224.248"
+         x="-128.2417"
+         y="-1222.0853"
          id="text7113-16"
          sodipodi:linespacing="125%"
          transform="scale(-1,-1)"
@@ -307,8 +414,8 @@ https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-not
          inkscape:transform-center-y="-17.9993"><tspan
            sodipodi:role="line"
            id="tspan7115-8"
-           x="-88.241699"
-           y="-1224.248">Margin</tspan></text>
+           x="-128.2417"
+           y="-1222.0853">Margin</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

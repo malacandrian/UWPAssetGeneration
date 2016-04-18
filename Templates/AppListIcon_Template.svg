@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="AppListIcon_Template.svg">
-  <UWP:Sizes>
+  <UWP:Sizes xmlns:UWP="http://natcs.eu/UWPAssetGeneration/Schema.xsd">
     <!-- Target-based asset sizes -->
     <UWP:Size>
       <UWP:Scale>256</UWP:Scale>

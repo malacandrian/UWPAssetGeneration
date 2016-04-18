@@ -19,10 +19,6 @@
 #Set the location of the "inkscape.com" program 
 $inkscape = "C:\Program Files\Inkscape\Inkscape.com"
 
-#Set the scale factors you want the script to produce.
-#When preparing your files, remember the script starts at the largest size, and scales down 
-$scales = 400, 200, 150, 125, 100
-
 #Set the directory containing all the source files (relative path from script location)
 $inputFolder = "Templates\"
 
@@ -93,15 +89,4 @@ Get-ChildItem $inputFolder | where-object { $_.extension -eq ".svg" -and $_.Base
             }
         }
     }
-
-    <#
-
-    $scales | ForEach-Object {
-        $scaleFactor = $_ / $largestScale
-        if($scaleFactor -ne 1) {
-            Write-Output "$location\$curOutputFolder\$name.Scale-$_.png"
-            Resize-Image -InputFile ".\$newName" -OutputFile "$location\$curOutputFolder\$name.Scale-$_.png" -Scale ($scaleFactor * 100)
-        }
-    }
-    #>
 }
